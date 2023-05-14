@@ -1,0 +1,1 @@
+# https-github.com-kazuya-uraisami-openai_api_bot_5basicschool
